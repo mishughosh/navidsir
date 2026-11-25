@@ -1,5 +1,5 @@
 // Backend API address
-const API_URL = "https://navidsir.onrender.com";
+const API_URL = "https://navidsir.onrender.com/students";
 
 // null = adding a new student, a number = editing that roll
 let editingRoll = null;
